@@ -27,8 +27,6 @@ __pycache__/
 # Ignore package-specific files
 *.dsv
 *.ps1
-*.yaml
-*.pgm
 
 # Ignore IDE-specific files
 .vscode/
