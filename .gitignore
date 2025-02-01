@@ -1,0 +1,40 @@
+# Ignore build directories
+/build/
+/install/
+/log/
+/ros2_ws/build/
+/ros2_ws/install/
+/ros2_ws/log/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment setup files
+*.bash
+*.sh
+*.zsh
+*.dsv
+*.ps1
+
+# Ignore package-specific files
+*.dsv
+*.ps1
+*.yaml
+*.pgm
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore document files
+*.odt
+*.txt
