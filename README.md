@@ -82,7 +82,6 @@ ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 
 ```sh
 cd Documents/Robotics/Ros2TurtleSLAM/ros2_ws
-cd Documents/Robotics/SLAM/ros2_ws
 source install/setup.bash
 export TURTLEBOT3_MODEL=waffle
 ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
